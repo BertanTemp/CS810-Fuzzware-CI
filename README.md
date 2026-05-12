@@ -16,3 +16,5 @@ Please make a dummy pull request to this repository. This could consist of an ed
 This should automatically trigget the Fuzzer action as a status check. Once the fuzzer is done, you should see a comment similar to the other pull requests get added. Again, you can use the link to download your fuzzware project to keep workign on it on your local machine. The project you download will contain plaintext/csv statistics at `fuzzware-project/stats/` that doesn't require Fuzzware on your local machine to study. If you have Fuzzware set up on your machine already, you should be able to replay runs too.
 
 I will make sure that the self-hosted runner is running on my server until grades are posted on Workday. After that date, the server will be shut down.
+
+Testing external pr...
